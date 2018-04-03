@@ -4,7 +4,7 @@ Você precisará das seguintes ferramentas para executar o projeto:
 
 Abra sua interface de linha de comando e digite:
 
-clone git 
+clone git https://github.com/RAlcantara/teste-api.git
 
 
 Mude os diretórios para o diretório do projeto:
