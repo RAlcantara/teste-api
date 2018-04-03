@@ -17,4 +17,4 @@ npm install
 Para o projeto foi utilizado o Wampserver
 
 Visualização da tela:
-http://localhost/teste-pratico/dist/
+http://localhost/teste-api/dist/
