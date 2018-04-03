@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Cabin Sketch', cursive; }
+
+h1, h2, h4, h5 {
+  margin: 0; }
+
+i:hover {
+  opacity: 0.8; }
+
+header, footer {
+  padding: 20px;
+  border: 2px solid #ccc;
+  background-color: #62c46217; }
+
+.pokemonButton {
+  display: inline-block;
+  color: #eee;
+  background-color: #333;
+  border: solid #aaa 1px;
+  font-family: 'Righteous', cursive;
+  transition: background-color 300ms; }
+
+.pokemonButton:hover {
+  cursor: pointer;
+  background-color: #666; }
+
+.choose {
+  color: snow;
+  background: #62c462e8; }
+
+.pokemon {
+  background: #dddddd40; }
+
+.card {
+  width: 200px;
+  display: inline-block;
+  border: dashed grey 1px;
+  background-color:  #fff;
+}
+
+button {
+  font-size: 1rem;
+  padding: 25px; 
+}
+
+form {
+   margin: auto !important;
+}
